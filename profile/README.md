@@ -16,11 +16,13 @@
 
 ## 🌟 ¿Quiénes somos?
 
-**ATENEA** es la agencia de la ciudad de Bogotá que trabaja para que más jóvenes accedan y **permanezcan** en la educación superior y en la formación para el trabajo.
+**ATENEA** es la Agencia Distrital para la Educación Superior, la Ciencia y la Tecnología de Bogotá. Trabajamos para ampliar las oportunidades de acceso y permanencia de los jóvenes en la educación posmedia y, al mismo tiempo, para articular y fortalecer el ecosistema de ciencia, tecnología e innovación de la ciudad.
 
-Una parte importante de ese trabajo se decide con **algoritmos**: ¿quién recibe un cupo?, ¿cuántos cupos financia cada institución?, ¿cómo se reparte el presupuesto? Como esas decisiones afectan la vida de muchas personas, creemos que **deben poder revisarse por cualquiera**.
+En el componente de educación posmedia, algunos procesos institucionales se apoyan en algoritmos y reglas de decisión para realizar tareas como la selección de aspirantes y la selección de oferta educativa. Estas herramientas inciden en decisiones que pueden afectar a muchas personas. Por eso creemos que su funcionamiento debe ser transparente, comprensible y verificable.
 
-Por eso este espacio existe: aquí **publicamos el código** con el que tomamos esas decisiones. Sin cajas negras, sin letra pequeña.
+Este espacio nace con ese propósito: aquí publicamos el código y la documentación de los algoritmos utilizados en los procesos de educación posmedia de Atenea, para que la ciudadanía pueda conocer cómo funcionan, revisar sus reglas y comprender cómo apoyan la toma de decisiones institucionales.
+
+**Sin cajas negras: algoritmos abiertos, documentados y sujetos al escrutinio ciudadano.**
 
 ---
 
@@ -55,17 +57,6 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 | **JE5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE5](https://github.com/ATENEA-SAIGC/Seleccion-JE5) |
 | | 🏫 Asignación de oferta — IES privadas | [JE5_oferta_algoritmo](https://github.com/ATENEA-SAIGC/JE5_oferta_algoritmo) |
 
-### Jóvenes a la E — Educación para el Trabajo (EFT)
-
-*Línea de formación para el trabajo y el desarrollo humano del programa Jóvenes a la E.*
-
-| Convocatoria | Tipo | Repositorio |
-|---|---|---|
-| **EFT1** — Primera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-EFT](https://github.com/ATENEA-SAIGC/Selecci-n-EFT) |
-| **EFT2** — Segunda convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT2](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT2) |
-| **EFT3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT3](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT3) |
-| **EFT4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT4](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT4) |
-
 ### Jóvenes a la U
 
 *Convocatorias del programa antes de su transición a "Jóvenes a la E".*
@@ -77,13 +68,16 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 | **JU5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU5](https://github.com/ATENEA-SAIGC/Seleccion-JU5) |
 | **JU6** — Sexta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU6](https://github.com/ATENEA-SAIGC/Seleccion-JU6) |
 
-### Talento Capital Formación
+### Jóvenes a la E — Educación y Formación para el Trabajo (EFT)
 
-*Programa de formación en ciclos cortos en habilidades del siglo XXI, con énfasis en sectores productivos estratégicos para la ciudad.*
+*Línea de formación para el trabajo y el desarrollo humano del programa Jóvenes a la E.*
 
 | Convocatoria | Tipo | Repositorio |
 |---|---|---|
-| **TCF 7-1** | 🧑‍🎓 Selección de beneficiarios | [Seleccion-TCF7-1](https://github.com/ATENEA-SAIGC/Seleccion-TCF7-1) |
+| **EFT1** — Primera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-EFT](https://github.com/ATENEA-SAIGC/Selecci-n-EFT) |
+| **EFT2** — Segunda convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT2](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT2) |
+| **EFT3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT3](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT3) |
+| **EFT4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT4](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT4) |
 
 ### FEST — Fondo de Educación Superior para Todos
 
@@ -98,6 +92,14 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 | Convocatoria | Tipo | Repositorio |
 |---|---|---|
 | **UTC4** — Cuarta convocatoria | 🏫 Asignación de oferta — IES | [UTC_calculo_oferta](https://github.com/ATENEA-SAIGC/UTC_calculo_oferta) |
+
+### Talento Capital Formación
+
+*Programa de formación en ciclos cortos en habilidades del siglo XXI, con énfasis en sectores productivos estratégicos para la ciudad.*
+
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **TCF 7-1** | 🧑‍🎓 Selección de beneficiarios | [Seleccion-TCF7-1](https://github.com/ATENEA-SAIGC/Seleccion-TCF7-1) |
 
 ---
 
@@ -125,10 +127,7 @@ Porque las decisiones públicas deben poder ser revisadas por la ciudadanía. Es
 Sí. Nuestro trabajo se publica bajo una autorización de uso con atribución (**CC BY**): puedes usarlo, adaptarlo y compartirlo, citando a ATENEA como autora. Revisa el archivo `LICENSE` de cada repositorio.
 
 **¿Dónde están los datos?**
-Los insumos de los algoritmos de **selección de beneficiarios** contienen datos personales y **no se publican** (se protegen conforme a la Ley 1581 de 2012); cada README explica qué insumo usa el proceso y cómo solicitarlo. Los algoritmos de **asignación de oferta** trabajan con información institucional (programas, costos y cupos de las instituciones), que en algunos casos sí se incluye junto al código.
-
-**¿Por qué algunos algoritmos se ven distintos a otros?**
-Porque los estamos estandarizando. Los más recientes están organizados en módulos, con dependencias fijadas y validación de resultados; otros se publican tal como se ejecutaron en producción y se irán actualizando al mismo formato. En todos los casos, **el código publicado es el que produjo el resultado**.
+Los algoritmos de selección de beneficiarios utilizan información que puede contener datos personales, por lo que las bases individuales no se publican, en cumplimiento de la normativa del régimen de protección de datos de Colombia; en cada README se documentan las fuentes y variables utilizadas. Los algoritmos de asignación o selección de oferta emplean principalmente información institucional, como programas, costos y cupos, que puede publicarse junto con el código cuando su divulgación es procedente. Así, se garantiza la transparencia del algoritmo sin exponer información personal de los aspirantes o beneficiarios.
 
 ---
 
