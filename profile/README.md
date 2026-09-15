@@ -37,67 +37,67 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 
 ## 📚 Catálogo de algoritmos por convocatoria
 
-> 💡 Cada enlace lleva al repositorio con el código y su **README**, donde explicamos el proceso paso a paso. Las convocatorias marcadas con 🌐 tienen además una **explicación web** pensada para público no técnico.
+> 💡 Cada enlace lleva al repositorio con el código y su **README**, donde explicamos el proceso paso a paso.
 
 ### Jóvenes a la E
 
 *Programa que promueve el acceso y la permanencia en educación superior de los bachilleres de Bogotá (antes "Jóvenes a la U").*
 
-| Convocatoria | Tipo | Repositorio | Explicación web |
-|---|---|---|---|
-| **JE1** — Primera convocatoria | 🧑‍🎓 Selección de beneficiarios | [JE1_aspirantes_algoritmo](https://github.com/ATENEA-SAIGC/JE1_aspirantes_algoritmo) | |
-| **JE2** — Segunda convocatoria (Bogotá y Soacha) | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE2](https://github.com/ATENEA-SAIGC/Seleccion-JE2) | |
-| **JE3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-JE3](https://github.com/ATENEA-SAIGC/Selecci-n-JE3) | [🌐 Ver](https://atenea-saigc.github.io/Selecci-n-JE3/) |
-| **JE4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [JE4_seleccion_algoritmo](https://github.com/ATENEA-SAIGC/JE4_seleccion_algoritmo) | |
-| | 🧑‍🎓 Selección de beneficiarios — IES públicas | [Seleccion-JE4-Publicas](https://github.com/ATENEA-SAIGC/Seleccion-JE4-Publicas) | |
-| | 🏫 Asignación de oferta — IES | [Selecci-n-JE4](https://github.com/ATENEA-SAIGC/Selecci-n-JE4) | [🌐 Ver](https://atenea-saigc.github.io/Selecci-n-JE4/) |
-| **JE4.1** — Convocatoria IES públicas | 🧑‍🎓 Selección de beneficiarios — IES públicas | [Seleccion-JE4-1-Publicas](https://github.com/ATENEA-SAIGC/Seleccion-JE4-1-Publicas) | |
-| **JE5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE5](https://github.com/ATENEA-SAIGC/Seleccion-JE5) | |
-| | 🏫 Asignación de oferta — IES privadas | [JE5_oferta_algoritmo](https://github.com/ATENEA-SAIGC/JE5_oferta_algoritmo) | |
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **JE1** — Primera convocatoria | 🧑‍🎓 Selección de beneficiarios | [JE1_aspirantes_algoritmo](https://github.com/ATENEA-SAIGC/JE1_aspirantes_algoritmo) |
+| **JE2** — Segunda convocatoria (Bogotá y Soacha) | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE2](https://github.com/ATENEA-SAIGC/Seleccion-JE2) |
+| **JE3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-JE3](https://github.com/ATENEA-SAIGC/Selecci-n-JE3) |
+| **JE4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [JE4_seleccion_algoritmo](https://github.com/ATENEA-SAIGC/JE4_seleccion_algoritmo) |
+| | 🧑‍🎓 Selección de beneficiarios — IES públicas | [Seleccion-JE4-Publicas](https://github.com/ATENEA-SAIGC/Seleccion-JE4-Publicas) |
+| | 🏫 Asignación de oferta — IES | [Selecci-n-JE4](https://github.com/ATENEA-SAIGC/Selecci-n-JE4) |
+| **JE4.1** — Convocatoria IES públicas | 🧑‍🎓 Selección de beneficiarios — IES públicas | [Seleccion-JE4-1-Publicas](https://github.com/ATENEA-SAIGC/Seleccion-JE4-1-Publicas) |
+| **JE5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE5](https://github.com/ATENEA-SAIGC/Seleccion-JE5) |
+| | 🏫 Asignación de oferta — IES privadas | [JE5_oferta_algoritmo](https://github.com/ATENEA-SAIGC/JE5_oferta_algoritmo) |
 
 ### Jóvenes a la E — Educación para el Trabajo (EFT)
 
 *Línea de formación para el trabajo y el desarrollo humano del programa Jóvenes a la E.*
 
-| Convocatoria | Tipo | Repositorio | Explicación web |
-|---|---|---|---|
-| **EFT1** — Primera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-EFT](https://github.com/ATENEA-SAIGC/Selecci-n-EFT) | [🌐 Ver](https://atenea-saigc.github.io/Selecci-n-EFT/) |
-| **EFT2** — Segunda convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT2](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT2) | |
-| **EFT3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT3](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT3) | |
-| **EFT4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT4](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT4) | |
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **EFT1** — Primera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-EFT](https://github.com/ATENEA-SAIGC/Selecci-n-EFT) |
+| **EFT2** — Segunda convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT2](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT2) |
+| **EFT3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT3](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT3) |
+| **EFT4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE-EFT4](https://github.com/ATENEA-SAIGC/Seleccion-JE-EFT4) |
 
 ### Jóvenes a la U
 
 *Convocatorias del programa antes de su transición a "Jóvenes a la E".*
 
-| Convocatoria | Tipo | Repositorio | Explicación web |
-|---|---|---|---|
-| **JU3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU3](https://github.com/ATENEA-SAIGC/Seleccion-JU3) | |
-| **JU4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU4](https://github.com/ATENEA-SAIGC/Seleccion-JU4) | |
-| **JU5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU5](https://github.com/ATENEA-SAIGC/Seleccion-JU5) | |
-| **JU6** — Sexta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU6](https://github.com/ATENEA-SAIGC/Seleccion-JU6) | |
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **JU3** — Tercera convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU3](https://github.com/ATENEA-SAIGC/Seleccion-JU3) |
+| **JU4** — Cuarta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU4](https://github.com/ATENEA-SAIGC/Seleccion-JU4) |
+| **JU5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU5](https://github.com/ATENEA-SAIGC/Seleccion-JU5) |
+| **JU6** — Sexta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JU6](https://github.com/ATENEA-SAIGC/Seleccion-JU6) |
 
 ### Talento Capital Formación
 
 *Programa de formación en ciclos cortos en habilidades del siglo XXI, con énfasis en sectores productivos estratégicos para la ciudad.*
 
-| Convocatoria | Tipo | Repositorio | Explicación web |
-|---|---|---|---|
-| **TCF 7-1** | 🧑‍🎓 Selección de beneficiarios | [Seleccion-TCF7-1](https://github.com/ATENEA-SAIGC/Seleccion-TCF7-1) | |
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **TCF 7-1** | 🧑‍🎓 Selección de beneficiarios | [Seleccion-TCF7-1](https://github.com/ATENEA-SAIGC/Seleccion-TCF7-1) |
 
 ### FEST — Fondo de Educación Superior para Todos
 
-| Convocatoria | Tipo | Repositorio | Explicación web |
-|---|---|---|---|
-| **FEST ATENEA 1** | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-Fest1](https://github.com/ATENEA-SAIGC/Selecci-n-Fest1) | [🌐 Ver](https://atenea-saigc.github.io/Selecci-n-Fest1/) |
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **FEST ATENEA 1** | 🧑‍🎓 Selección de beneficiarios | [Selecci-n-Fest1](https://github.com/ATENEA-SAIGC/Selecci-n-Fest1) |
 
 ### La U en Tu Colegio (UTC)
 
 *Estrategia de tránsito a la educación superior desde los colegios de Bogotá.*
 
-| Convocatoria | Tipo | Repositorio | Explicación web |
-|---|---|---|---|
-| **UTC4** — Cuarta convocatoria | 🏫 Asignación de oferta — IES | [UTC_calculo_oferta](https://github.com/ATENEA-SAIGC/UTC_calculo_oferta) | |
+| Convocatoria | Tipo | Repositorio |
+|---|---|---|
+| **UTC4** — Cuarta convocatoria | 🏫 Asignación de oferta — IES | [UTC_calculo_oferta](https://github.com/ATENEA-SAIGC/UTC_calculo_oferta) |
 
 ---
 
@@ -116,7 +116,7 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 ## 🤔 Preguntas frecuentes
 
 **¿Tengo que saber programar para entender esto?**
-No. Cada repositorio incluye una explicación en lenguaje claro, con tablas que describen cada regla. Las convocatorias marcadas con 🌐 tienen además una página web explicativa. El código está disponible para quien quiera revisarlo a fondo.
+No. Cada repositorio incluye una explicación en lenguaje claro, con tablas que describen cada regla. El código está disponible para quien quiera revisarlo a fondo.
 
 **¿Por qué publican los algoritmos?**
 Porque las decisiones públicas deben poder ser revisadas por la ciudadanía. Es un compromiso con la transparencia y el acceso a la información pública.
