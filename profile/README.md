@@ -16,11 +16,11 @@
 
 ## 🌟 ¿Quiénes somos?
 
-**ATENEA** es la Agencia Distrital para la Educación Superior, la Ciencia y la Tecnología de Bogotá. Trabajamos para ampliar las oportunidades de acceso y permanencia de los jóvenes en la educación posmedia y, al mismo tiempo, para articular y fortalecer el ecosistema de ciencia, tecnología e innovación de la ciudad.
+**ATENEA** es la Agencia Distrital para la Educación Superior, la Ciencia y la Tecnología de Bogotá. Trabajamos para **ampliar las oportunidades de acceso y permanencia de los jóvenes en la educación posmedia** y, al mismo tiempo, para **articular y fortalecer el ecosistema de ciencia, tecnología e innovación de la ciudad**.
 
-En el componente de educación posmedia, algunos procesos institucionales se apoyan en algoritmos y reglas de decisión para realizar tareas como la selección de aspirantes y la selección de oferta educativa. Estas herramientas inciden en decisiones que pueden afectar a muchas personas. Por eso creemos que su funcionamiento debe ser transparente, comprensible y verificable.
+En el componente de educación posmedia, algunos procesos institucionales se apoyan en **algoritmos y reglas de decisión** para realizar tareas como la selección de aspirantes y la selección de oferta educativa. Estas herramientas inciden en decisiones que pueden afectar a muchas personas. Por eso creemos que su funcionamiento debe ser **transparente, comprensible y verificable**.
 
-Este espacio nace con ese propósito: aquí publicamos el código y la documentación de los algoritmos utilizados en los procesos de educación posmedia de Atenea, para que la ciudadanía pueda conocer cómo funcionan, revisar sus reglas y comprender cómo apoyan la toma de decisiones institucionales.
+Este espacio nace con ese propósito: aquí **publicamos el código y la documentación de los algoritmos utilizados en los procesos de educación posmedia de Atenea**, para que la ciudadanía pueda conocer cómo funcionan, revisar sus reglas y comprender cómo apoyan la toma de decisiones institucionales.
 
 **Sin cajas negras: algoritmos abiertos, documentados y sujetos al escrutinio ciudadano.**
 
@@ -127,7 +127,7 @@ Porque las decisiones públicas deben poder ser revisadas por la ciudadanía. Es
 Sí. Nuestro trabajo se publica bajo una autorización de uso con atribución (**CC BY**): puedes usarlo, adaptarlo y compartirlo, citando a ATENEA como autora. Revisa el archivo `LICENSE` de cada repositorio.
 
 **¿Dónde están los datos?**
-Los algoritmos de selección de beneficiarios utilizan información que puede contener datos personales, por lo que las bases individuales no se publican, en cumplimiento de la normativa del régimen de protección de datos de Colombia; en cada README se documentan las fuentes y variables utilizadas. Los algoritmos de asignación o selección de oferta emplean principalmente información institucional, como programas, costos y cupos, que puede publicarse junto con el código cuando su divulgación es procedente. Así, se garantiza la transparencia del algoritmo sin exponer información personal de los aspirantes o beneficiarios.
+Los algoritmos de **selección de beneficiarios** utilizan información que puede contener datos personales, por lo que las bases individuales **no se publican**, en cumplimiento de la normativa del régimen de protección de datos de Colombia; en cada README se documentan las fuentes y variables utilizadas. Los algoritmos de **asignación o selección de oferta** emplean principalmente información institucional, como programas, costos y cupos, que puede publicarse junto con el código cuando su divulgación es procedente. Así, se garantiza la transparencia del algoritmo sin exponer información personal de los aspirantes o beneficiarios.
 
 ---
 
