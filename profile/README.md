@@ -6,7 +6,7 @@
 *Subgerencia de Análisis de Información y Gestión del Conocimiento (SAIGC)*
 
 ![Transparencia](https://img.shields.io/badge/Transparencia-algor%C3%ADtmica-blue?style=for-the-badge)
-![Algoritmos](https://img.shields.io/badge/Algoritmos%20publicados-20-informational?style=for-the-badge)
+![Algoritmos](https://img.shields.io/badge/Algoritmos%20publicados-21-informational?style=for-the-badge)
 ![Lenguaje](https://img.shields.io/badge/Hecho%20con-R-276DC3?style=for-the-badge&logo=r)
 ![Licencia](https://img.shields.io/badge/Licencia-CC%20BY-green?style=for-the-badge)
 
@@ -100,6 +100,7 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 | Convocatoria | Tipo | Repositorio |
 |---|---|---|
 | **TCF 7-1** | 🧑‍🎓 Selección de beneficiarios | [Seleccion-TCF7-1](https://github.com/ATENEA-SAIGC/Seleccion-TCF7-1) |
+| **TCF 8** — Oferta UAESP (Gastronomía, Belleza y Pecuario) | 🧑‍🎓 Selección de beneficiarios | [Seleccion-TCF8](https://github.com/ATENEA-SAIGC/Seleccion-TCF8) |
 
 ---
 
