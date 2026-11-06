@@ -6,7 +6,7 @@
 *Subgerencia de Análisis de Información y Gestión del Conocimiento (SAIGC)*
 
 ![Transparencia](https://img.shields.io/badge/Transparencia-algor%C3%ADtmica-blue?style=for-the-badge)
-![Algoritmos](https://img.shields.io/badge/Algoritmos%20publicados-21-informational?style=for-the-badge)
+![Algoritmos](https://img.shields.io/badge/Algoritmos%20publicados-22-informational?style=for-the-badge)
 ![Lenguaje](https://img.shields.io/badge/Hecho%20con-R-276DC3?style=for-the-badge&logo=r)
 ![Licencia](https://img.shields.io/badge/Licencia-CC%20BY-green?style=for-the-badge)
 
@@ -56,6 +56,7 @@ En cada convocatoria pueden intervenir dos procesos distintos. Los identificamos
 | **JE4.1** — Convocatoria IES públicas | 🧑‍🎓 Selección de beneficiarios — IES públicas | [Seleccion-JE4-1-Publicas](https://github.com/ATENEA-SAIGC/Seleccion-JE4-1-Publicas) |
 | **JE5** — Quinta convocatoria | 🧑‍🎓 Selección de beneficiarios | [Seleccion-JE5](https://github.com/ATENEA-SAIGC/Seleccion-JE5) |
 | | 🏫 Asignación de oferta — IES privadas | [JE5_oferta_algoritmo](https://github.com/ATENEA-SAIGC/JE5_oferta_algoritmo) |
+| **JE6** — Sexta convocatoria | 🏫 Asignación de oferta — IES (línea General) | [JE6_oferta_algoritmo](https://github.com/ATENEA-SAIGC/JE6_oferta_algoritmo) |
 
 ### Jóvenes a la U
 
